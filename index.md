@@ -21,4 +21,4 @@ var myVar = "Sharingan Ipnotico!";
 
 - [X] Concentra il chakra
 - [X] Pensa al ragu del AVIS
-- [ ] Vendetta della Claudia
+- [ ] Vendetta
